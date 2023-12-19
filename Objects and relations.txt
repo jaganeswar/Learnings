@@ -1,0 +1,48 @@
+Custom objects:
+  
+Activity Master               - CSM_Activity_Master__c
+Annual Donor Dinner Tracking  - Annual_Donor_Dinner_Tracking__c
+Class Activity Plan           - CSM_Class_Activity_Plan__c
+CSM_Organization              - CSM_Organization__c
+Disbursement                  - Disbursement__c
+Donor History                 - ILP_DONOR_HISTORY__c
+ILP Chapter                   - ILP_Chapter__c
+ILP Collections               - ILP_Collections__c
+ILP Relay Member Fund Raising - ILP_Relay_Member_Fund_Raising__c
+ILP Relay Members             - ILP_Relay_Members__c
+ILP Relay Program             - ILP_Relay_Program__c
+ILP Relay Teams               - ILP_Relay_Teams__c
+ILP RelayTeam Members         - ILP_RelayTeam_Members__c
+ILP VolunteerDB               - VolunteerDB__c
+ILP_COLLECTIONS_HEADER        - ILP_COLLECTIONS_HEADER__c
+Intervention                  - ILP_PROJ_PROGRAMS__c
+Intervention Target           - ILP_PROJ_INT_TARGET__c
+Partner/NGO                   - PROJ_PARTNER_INFO__c
+Project Action Plan           - Project_Action_Plan__c
+Project Beneficiaries         - Project_Beneficiaries__c
+Project Budgets               - Project_Budgets__c
+Project Financials            - ILP_PROJ_FINANCIALS__c
+Project Information           - ILP_PROJ_HEADERS__c
+Project Planning Cycle        - Project_Planning_Cycle__c
+Project Sponsor               - Project_Sponsor__c
+Project Villages              - Project_Villages__c
+Project Yearly Plan           - Project_Yearly_Plans__c
+School Class                  - CSM_School_class__c
+School Master                 - CSM_School_Master__c
+State District Master Data    - State_District_Master_Data__c
+Student                       - CSM_School_Student__c
+Student Activities            - Student_Activities__c
+Teacher                       - CSM_School_teacher__c
+
+Relationships:
+1) Activity Master:
+Organization - Lookup(CSM_Organization)
+
+2) Annual Donor Dinner Tracking:
+
+3) Class Activity Plan
+
+4) CSM_Organization :
+No relationship
+
+ 

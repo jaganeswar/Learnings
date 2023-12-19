@@ -1,0 +1,13 @@
+15/12/2023
+
+Data model
+
+Partner/Ngos - The partner(other NGO that helps ilp) or Ngo (ILP's own peoples).
+Project Information - Details of the project. Like state name, Status of the project,Etc
+Project Yearly plan - This object is used to gather infor mation of the project.
+Project planing cycle - It captures the cycle of the project like from which year to which year.
+Project Village - It contains the details of the panjayat ,Village,DIstrict name, COunt of anganwadis,Schools, primary schools,Total beneficiaries.
+Project Budgets - 
+Project Beneficiaries -  Beneficiaries of that Village will be stored here.
+
+            
